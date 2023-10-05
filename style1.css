@@ -1,0 +1,38 @@
+p {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightcyan;
+    color:darkblue;
+    margin: 0;
+    padding: 0;
+    }   
+div {
+        margin: 70px;
+        border: 1px;
+    }
+    img {
+        border-radius: 8px;
+        padding: 10px;
+        position: relative;
+      }
+    h2{
+        color:brown;
+    }
+    h1{
+        color:darkblue;
+     }
+     .column{
+        float:left;
+        width:30%;
+        padding:10px;
+     }
+     .row{
+        content:"";
+        clear:both;
+        display:table;
+     }
+     
